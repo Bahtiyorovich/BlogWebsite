@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30b3f98a.css",
+    "main.js": "/static/js/main.94d85c6e.js",
+    "static/media/registerSection.jpg": "/static/media/registerSection.4eb6e1860cd44265c7fb.jpg",
+    "static/media/merc-1.jpg": "/static/media/merc-1.e4cb07e5b87ccf434e48.jpg",
+    "static/media/merc-classic.jpg": "/static/media/merc-classic.00e50f76c5834e67263f.jpg",
+    "static/media/merc-2.jpg": "/static/media/merc-2.f604482764a0869dc260.jpg",
+    "static/media/merc-img.jpg": "/static/media/merc-img.a8a6c9f1a515a4fc6cf5.jpg",
+    "static/media/moto-img.jpg": "/static/media/moto-img.e8ffd8b7506920965afc.jpg",
+    "static/media/Portfolio_image.jpg": "/static/media/Portfolio_image.090813be00eea55c956b.jpg",
+    "index.html": "/index.html",
+    "main.30b3f98a.css.map": "/static/css/main.30b3f98a.css.map",
+    "main.94d85c6e.js.map": "/static/js/main.94d85c6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30b3f98a.css",
+    "static/js/main.94d85c6e.js"
+  ]
+}
