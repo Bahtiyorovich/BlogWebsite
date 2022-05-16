@@ -1,0 +1,83 @@
+.register
+{
+    height: 92vh;
+    display: flex;
+    align-items: center;
+    font-family: 'Varela Round', sans-serif;
+    flex-direction: column;
+    background-image:
+        linear-gradient(
+        rgb(255,255,255,0.3),
+        rgb(255,255,255,0.3)
+        ),
+        url('../../components/images/registerSection.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+.registerTitle
+{
+    font-size: 50px;
+    margin-top: 100px;
+    color: rgb(12, 10, 133);
+}
+
+.registerForm
+{
+    width: 28%;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.registerForm > label
+{
+    margin: 10px 0;
+    font-size: 14px;
+    font-family: 'Varela', sans-serif;
+    color: rgb(16, 4, 75);
+}
+
+.registerInputEmail
+{
+    padding: 15px;
+    border: none;
+    filter: opacity(86%);
+    text-transform: lowercase;
+}
+
+.registerInput
+{
+    padding: 15px;
+    border: none;
+    filter: opacity(86%);
+}
+
+.registerButton
+{   
+    margin-top: 20px;
+    padding: 10px;
+    background: rgb(91, 80, 240);
+    border-radius: 4px;
+    border: none;
+    letter-spacing: 1px;
+    color: white;
+    cursor: pointer;
+}
+
+.RegisterLoginButton
+{
+    position: absolute;
+    width: 12%;
+    top: 70px;
+    right: 20px;
+    padding: 10px;
+    background:rgb(16, 209, 209);
+    border: none;
+    border-radius: 3px;
+    letter-spacing: 1px;
+    color: white;
+    cursor: pointer;
+}
